@@ -1,0 +1,1 @@
+/usr/bin/c++   -g    "CMakeFiles//home/bumrang/dump v2/dump/Open.gl/matrix stuff/gl 2.1 m+k.dir/test.cpp.o" "CMakeFiles//home/bumrang/dump v2/dump/Open.gl/matrix stuff/gl 2.1 m+k.dir/Camera.cpp.o"  -o "home/bumrang/dump v2/dump/Open.gl/matrix stuff/gl 2.1 m+k" -rdynamic -lGLU -lGL -lSM -lICE -lX11 -lXext -lglfw -Wl,-Bstatic -lSOIL -Wl,-Bdynamic 

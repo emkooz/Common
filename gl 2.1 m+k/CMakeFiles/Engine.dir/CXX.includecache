@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bumrang/dump v2/dump/Open.gl/matrix stuff/gl 2.1 m+k/Camera.cpp
+Camera.hpp
+/home/bumrang/dump v2/dump/Open.gl/matrix stuff/gl 2.1 m+k/Camera.hpp
+
+/home/bumrang/dump v2/dump/Open.gl/matrix stuff/gl 2.1 m+k/Camera.hpp
+iostream
+-
+GL/glew.h
+-
+GL/glfw.h
+-
+glm/glm.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+
+/home/bumrang/dump v2/dump/Open.gl/matrix stuff/gl 2.1 m+k/test.cpp
+GL/glew.h
+-
+GL/glfw.h
+-
+glm/glm.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+SOIL.h
+-
+iostream
+-
+fstream
+-
+vector
+-
+string
+-
+Camera.hpp
+/home/bumrang/dump v2/dump/Open.gl/matrix stuff/gl 2.1 m+k/Camera.hpp
+
